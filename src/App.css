@@ -1,0 +1,42 @@
+
+.global{
+  display: grid;
+  height: 1920px;
+  width: 1080px;
+}
+
+
+.initPage{
+  display: grid;
+  background-color: aqua;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+}
+
+.BotaoDowload{
+  height: 10vh;
+  border: none;
+  font-size: 3vh;
+  color: white;
+  font-style: bold;
+  background-color: greenyellow;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.select{
+
+  height: 10vh;
+  border: none;
+  font-size: 3vh;
+  color: white;
+  font-style: bold;
+  background-color: wheat;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.inputSection{
+  text-align: center;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
